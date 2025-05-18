@@ -1,0 +1,514 @@
+[2025-05-15 19:47:08] [Servidor] Procesado presion=967.77 de Sensor 8b474ffc
+[2025-05-15 19:47:08] [Servidor] Procesado temperatura=34.29 de Sensor 6fbe74bb
+[2025-05-15 19:47:08] [Servidor] Procesado humedad=51.46 de Sensor 1c6e307c
+[2025-05-15 19:47:09] [Servidor] Procesado presion=969.92 de Sensor 8b474ffc
+[2025-05-15 19:49:47] [Servidor] Procesado temperatura=29.98 de Sensor f3449f11
+[2025-05-15 19:49:47] [Servidor] Procesado humedad=75.9 de Sensor 26414d6f
+[2025-05-15 19:49:47] [Servidor] Procesado presion=998.34 de Sensor 4c939665
+[2025-05-15 19:49:48] [Servidor] Procesado temperatura=33.64 de Sensor f3449f11
+[2025-05-15 19:49:48] [Servidor] Procesado humedad=68.82 de Sensor 26414d6f
+[2025-05-15 19:49:48] [Servidor] Procesado presion=967.22 de Sensor 4c939665
+[2025-05-15 19:49:49] [Servidor] Procesado temperatura=23.05 de Sensor f3449f11
+[2025-05-15 19:49:49] [Servidor] Procesado humedad=34.32 de Sensor 26414d6f
+[2025-05-15 19:49:49] [Servidor] Procesado presion=1003.8 de Sensor 4c939665
+[2025-05-15 19:49:51] [Servidor] Procesado temperatura=20.86 de Sensor f3449f11
+[2025-05-15 19:49:51] [Servidor] Procesado humedad=53.64 de Sensor 26414d6f
+[2025-05-15 19:49:51] [Servidor] Procesado presion=974.89 de Sensor 4c939665
+[2025-05-15 19:49:51] [ALERTA] TEMPERATURA crítica (42.0) en Sensor f3449f11
+[2025-05-15 19:49:52] [Servidor] Procesado temperatura=42.0 de Sensor f3449f11
+[2025-05-15 19:49:52] [ALERTA] HUMEDAD crítica (96.42) en Sensor 26414d6f
+[2025-05-15 19:49:52] [Servidor] Procesado humedad=96.42 de Sensor 26414d6f
+[2025-05-15 19:49:52] [Servidor] Procesado presion=963.11 de Sensor 4c939665
+[2025-05-15 19:49:52] [ALERTA] TEMPERATURA crítica (35.18) en Sensor f3449f11
+[2025-05-15 19:49:53] [Servidor] Procesado temperatura=35.18 de Sensor f3449f11
+[2025-05-15 19:49:53] [Servidor] Procesado humedad=53.14 de Sensor 26414d6f
+[2025-05-15 19:49:53] [Servidor] Procesado presion=992.48 de Sensor 4c939665
+[2025-05-15 19:49:53] [Servidor] Procesado temperatura=16.35 de Sensor f3449f11
+[2025-05-15 19:49:53] [ALERTA] HUMEDAD crítica (95.74) en Sensor 26414d6f
+[2025-05-15 19:49:54] [Servidor] Procesado humedad=95.74 de Sensor 26414d6f
+[2025-05-15 19:49:54] [Servidor] Procesado presion=961.47 de Sensor 4c939665
+[2025-05-15 19:49:54] [Servidor] Procesado temperatura=33.75 de Sensor f3449f11
+[2025-05-15 19:49:54] [Servidor] Procesado humedad=65.47 de Sensor 26414d6f
+[2025-05-15 19:49:55] [Servidor] Procesado presion=966.63 de Sensor 4c939665
+[2025-05-15 19:49:55] [Servidor] Procesado temperatura=26.07 de Sensor f3449f11
+[2025-05-15 19:49:55] [Servidor] Procesado humedad=86.59 de Sensor 26414d6f
+[2025-05-15 19:49:56] [Servidor] Procesado presion=956.34 de Sensor 4c939665
+[2025-05-15 19:49:56] [Servidor] Procesado temperatura=21.31 de Sensor f3449f11
+[2025-05-15 19:49:56] [ALERTA] HUMEDAD crítica (98.57) en Sensor 26414d6f
+[2025-05-15 19:49:57] [Servidor] Procesado humedad=98.57 de Sensor 26414d6f
+[2025-05-15 19:49:57] [Servidor] Procesado presion=974.83 de Sensor 4c939665
+[2025-05-15 19:49:57] [Servidor] Procesado temperatura=23.72 de Sensor f3449f11
+[2025-05-15 19:49:57] [Servidor] Procesado humedad=52.73 de Sensor 26414d6f
+[2025-05-15 19:49:58] [Servidor] Procesado presion=1014.86 de Sensor 4c939665
+[2025-05-15 19:49:59] [Servidor] Procesado temperatura=23.26 de Sensor f3449f11
+[2025-05-15 19:49:59] [Servidor] Procesado humedad=59.64 de Sensor 26414d6f
+[2025-05-15 19:49:59] [ALERTA] PRESION crítica (1021.99) en Sensor 4c939665
+[2025-05-15 19:49:59] [Servidor] Procesado presion=1021.99 de Sensor 4c939665
+[2025-05-15 19:49:59] [ALERTA] TEMPERATURA crítica (37.64) en Sensor f3449f11
+[2025-05-15 19:50:00] [Servidor] Procesado temperatura=37.64 de Sensor f3449f11
+[2025-05-15 19:50:00] [Servidor] Procesado humedad=52.97 de Sensor 26414d6f
+[2025-05-15 19:50:00] [Servidor] Procesado presion=975.57 de Sensor 4c939665
+[2025-05-15 19:50:00] [ALERTA] TEMPERATURA crítica (39.53) en Sensor f3449f11
+[2025-05-15 19:50:01] [Servidor] Procesado temperatura=39.53 de Sensor f3449f11
+[2025-05-15 19:50:01] [Servidor] Procesado humedad=40.14 de Sensor 26414d6f
+[2025-05-15 19:50:01] [ALERTA] PRESION crítica (1021.38) en Sensor 4c939665
+[2025-05-15 19:50:01] [Servidor] Procesado presion=1021.38 de Sensor 4c939665
+[2025-05-15 19:50:01] [Servidor] Procesado temperatura=29.12 de Sensor f3449f11
+[2025-05-15 19:50:01] [Servidor] Procesado humedad=34.83 de Sensor 26414d6f
+[2025-05-15 19:50:01] [Servidor] Procesado presion=965.41 de Sensor 4c939665
+[2025-05-15 19:50:02] [ALERTA] TEMPERATURA crítica (39.44) en Sensor f3449f11
+[2025-05-15 19:50:03] [Servidor] Procesado temperatura=39.44 de Sensor f3449f11
+[2025-05-15 19:50:03] [Servidor] Procesado humedad=64.45 de Sensor 26414d6f
+[2025-05-15 19:50:03] [Servidor] Procesado presion=954.75 de Sensor 4c939665
+[2025-05-15 19:50:03] [Servidor] Procesado temperatura=26.19 de Sensor f3449f11
+[2025-05-15 19:50:04] [Servidor] Procesado humedad=60.91 de Sensor 26414d6f
+[2025-05-15 19:50:04] [Servidor] Procesado presion=950.62 de Sensor 4c939665
+[2025-05-15 19:50:04] [Servidor] Procesado temperatura=32.09 de Sensor f3449f11
+[2025-05-15 19:50:04] [Servidor] Procesado humedad=60.64 de Sensor 26414d6f
+[2025-05-15 19:50:05] [Servidor] Procesado presion=967.94 de Sensor 4c939665
+[2025-05-15 19:50:05] [Servidor] Procesado temperatura=25.46 de Sensor f3449f11
+[2025-05-15 19:50:05] [Servidor] Procesado humedad=72.48 de Sensor 26414d6f
+[2025-05-15 19:50:06] [Servidor] Procesado presion=974.26 de Sensor 4c939665
+[2025-05-15 19:50:06] [ALERTA] TEMPERATURA crítica (44.18) en Sensor f3449f11
+[2025-05-15 19:50:07] [Servidor] Procesado temperatura=44.18 de Sensor f3449f11
+[2025-05-15 19:50:07] [ALERTA] HUMEDAD crítica (97.01) en Sensor 26414d6f
+[2025-05-15 19:50:07] [Servidor] Procesado humedad=97.01 de Sensor 26414d6f
+[2025-05-15 19:50:07] [Servidor] Procesado presion=996.02 de Sensor 4c939665
+[2025-05-15 19:50:08] [Servidor] Procesado temperatura=22.58 de Sensor f3449f11
+[2025-05-15 19:50:08] [Servidor] Procesado humedad=76.5 de Sensor 26414d6f
+[2025-05-15 19:50:08] [Servidor] Procesado presion=968.97 de Sensor 4c939665
+[2025-05-15 19:50:08] [Servidor] Procesado temperatura=24.15 de Sensor f3449f11
+[2025-05-15 19:50:09] [ALERTA] HUMEDAD crítica (98.73) en Sensor 26414d6f
+[2025-05-15 19:50:09] [Servidor] Procesado humedad=98.73 de Sensor 26414d6f
+[2025-05-15 19:50:09] [Servidor] Procesado presion=986.7 de Sensor 4c939665
+[2025-05-15 19:50:09] [ALERTA] TEMPERATURA crítica (38.77) en Sensor f3449f11
+[2025-05-15 19:50:10] [Servidor] Procesado temperatura=38.77 de Sensor f3449f11
+[2025-05-15 19:50:10] [Servidor] Procesado humedad=30.14 de Sensor 26414d6f
+[2025-05-15 19:50:10] [ALERTA] PRESION crítica (1040.26) en Sensor 4c939665
+[2025-05-15 19:50:10] [Servidor] Procesado presion=1040.26 de Sensor 4c939665
+[2025-05-15 19:50:10] [Servidor] Procesado temperatura=18.33 de Sensor f3449f11
+[2025-05-15 19:50:10] [Servidor] Procesado humedad=83.7 de Sensor 26414d6f
+[2025-05-15 19:50:10] [Servidor] Procesado presion=1010.92 de Sensor 4c939665
+[2025-05-15 19:50:12] [Servidor] Procesado temperatura=16.39 de Sensor f3449f11
+[2025-05-15 19:50:12] [Servidor] Procesado humedad=79.4 de Sensor 26414d6f
+[2025-05-15 19:50:12] [Servidor] Procesado presion=981.12 de Sensor 4c939665
+[2025-05-15 19:50:13] [Servidor] Procesado temperatura=24.53 de Sensor f3449f11
+[2025-05-15 19:50:13] [Servidor] Procesado humedad=49.01 de Sensor 26414d6f
+[2025-05-15 19:50:13] [Servidor] Procesado presion=984.38 de Sensor 4c939665
+[2025-05-15 19:56:51] [SECUENCIAL] Procesado temperatura=16.34
+[2025-05-15 19:56:51] [SECUENCIAL] Procesado humedad=67.27
+[2025-05-15 19:56:51] [ALERTA - SECUENCIAL] PRESION crítica: 1046.81
+[2025-05-15 19:56:51] [SECUENCIAL] Procesado presion=1046.81
+[2025-05-15 19:56:52] [SECUENCIAL] Procesado temperatura=19.35
+[2025-05-15 19:56:52] [SECUENCIAL] Procesado humedad=59.86
+[2025-05-15 19:56:52] [ALERTA - SECUENCIAL] PRESION crítica: 1047.99
+[2025-05-15 19:56:52] [SECUENCIAL] Procesado presion=1047.99
+[2025-05-15 19:56:53] [ALERTA - SECUENCIAL] TEMPERATURA crítica: 36.63
+[2025-05-15 19:56:53] [SECUENCIAL] Procesado temperatura=36.63
+[2025-05-15 19:56:53] [SECUENCIAL] Procesado humedad=75.91
+[2025-05-15 19:56:53] [ALERTA - SECUENCIAL] PRESION crítica: 1039.88
+[2025-05-15 19:56:53] [SECUENCIAL] Procesado presion=1039.88
+[2025-05-15 19:56:54] [SECUENCIAL] Procesado temperatura=17.02
+[2025-05-15 19:56:54] [SECUENCIAL] Procesado humedad=38.13
+[2025-05-15 19:56:54] [SECUENCIAL] Procesado presion=992.38
+[2025-05-15 19:56:55] [SECUENCIAL] Procesado temperatura=17.91
+[2025-05-15 19:56:55] [SECUENCIAL] Procesado humedad=59.87
+[2025-05-15 19:56:55] [SECUENCIAL] Procesado presion=972.38
+[2025-05-15 19:56:56] [ALERTA - SECUENCIAL] TEMPERATURA crítica: 37.49
+[2025-05-15 19:56:56] [SECUENCIAL] Procesado temperatura=37.49
+[2025-05-15 19:56:56] [SECUENCIAL] Procesado humedad=74.82
+[2025-05-15 19:56:56] [SECUENCIAL] Procesado presion=965.31
+[2025-05-15 19:56:57] [SECUENCIAL] Procesado temperatura=23.19
+[2025-05-15 19:56:57] [ALERTA - SECUENCIAL] HUMEDAD crítica: 95.71
+[2025-05-15 19:56:57] [SECUENCIAL] Procesado humedad=95.71
+[2025-05-15 19:56:57] [SECUENCIAL] Procesado presion=1009.41
+[2025-05-15 19:56:59] [SECUENCIAL] Procesado temperatura=29.67
+[2025-05-15 19:56:59] [SECUENCIAL] Procesado humedad=71.43
+[2025-05-15 19:56:59] [ALERTA - SECUENCIAL] PRESION crítica: 1032.87
+[2025-05-15 19:56:59] [SECUENCIAL] Procesado presion=1032.87
+[2025-05-15 19:57:00] [SECUENCIAL] Procesado temperatura=19.58
+[2025-05-15 19:57:00] [SECUENCIAL] Procesado humedad=68.81
+[2025-05-15 19:57:00] [SECUENCIAL] Procesado presion=988.1
+[2025-05-15 19:57:01] [SECUENCIAL] Procesado temperatura=20.08
+[2025-05-15 19:57:01] [ALERTA - SECUENCIAL] HUMEDAD crítica: 97.09
+[2025-05-15 19:57:01] [SECUENCIAL] Procesado humedad=97.09
+[2025-05-15 19:57:01] [SECUENCIAL] Procesado presion=970.83
+[2025-05-15 19:57:02] [SECUENCIAL] Procesado temperatura=32.8
+[2025-05-15 19:57:02] [SECUENCIAL] Procesado humedad=63.07
+[2025-05-15 19:57:02] [SECUENCIAL] Procesado presion=987.41
+[2025-05-15 19:57:03] [SECUENCIAL] Procesado temperatura=18.19
+[2025-05-15 19:57:03] [SECUENCIAL] Procesado humedad=35.05
+[2025-05-15 19:57:03] [SECUENCIAL] Procesado presion=968.54
+[2025-05-15 19:57:04] [SECUENCIAL] Procesado temperatura=27.25
+[2025-05-15 19:57:04] [ALERTA - SECUENCIAL] HUMEDAD crítica: 91.19
+[2025-05-15 19:57:04] [SECUENCIAL] Procesado humedad=91.19
+[2025-05-15 19:57:04] [ALERTA - SECUENCIAL] PRESION crítica: 1021.28
+[2025-05-15 19:57:04] [SECUENCIAL] Procesado presion=1021.28
+[2025-05-15 19:57:05] [ALERTA - SECUENCIAL] TEMPERATURA crítica: 44.23
+[2025-05-15 19:57:05] [SECUENCIAL] Procesado temperatura=44.23
+[2025-05-15 19:57:05] [ALERTA - SECUENCIAL] HUMEDAD crítica: 92.55
+[2025-05-15 19:57:05] [SECUENCIAL] Procesado humedad=92.55
+[2025-05-15 19:57:05] [ALERTA - SECUENCIAL] PRESION crítica: 1030.57
+[2025-05-15 19:57:05] [SECUENCIAL] Procesado presion=1030.57
+[2025-05-15 19:57:06] [SECUENCIAL] Procesado temperatura=32.38
+[2025-05-15 19:57:06] [ALERTA - SECUENCIAL] HUMEDAD crítica: 95.61
+[2025-05-15 19:57:06] [SECUENCIAL] Procesado humedad=95.61
+[2025-05-15 19:57:06] [SECUENCIAL] Procesado presion=950.47
+[2025-05-15 19:57:07] [SECUENCIAL] Procesado temperatura=33.5
+[2025-05-15 19:57:07] [SECUENCIAL] Procesado humedad=75.12
+[2025-05-15 19:57:07] [SECUENCIAL] Procesado presion=953.35
+[2025-05-15 19:57:08] [ALERTA - SECUENCIAL] TEMPERATURA crítica: 43.96
+[2025-05-15 19:57:08] [SECUENCIAL] Procesado temperatura=43.96
+[2025-05-15 19:57:08] [SECUENCIAL] Procesado humedad=85.59
+[2025-05-15 19:57:08] [SECUENCIAL] Procesado presion=980.01
+[2025-05-15 19:57:09] [ALERTA - SECUENCIAL] TEMPERATURA crítica: 41.74
+[2025-05-15 19:57:09] [SECUENCIAL] Procesado temperatura=41.74
+[2025-05-15 19:57:09] [SECUENCIAL] Procesado humedad=35.49
+[2025-05-15 19:57:09] [SECUENCIAL] Procesado presion=976.22
+[2025-05-15 19:57:10] [ALERTA - SECUENCIAL] TEMPERATURA crítica: 39.16
+[2025-05-15 19:57:10] [SECUENCIAL] Procesado temperatura=39.16
+[2025-05-15 19:57:10] [SECUENCIAL] Procesado humedad=45.3
+[2025-05-15 19:57:10] [SECUENCIAL] Procesado presion=1003.38
+[2025-05-15 19:57:11] [ALERTA - SECUENCIAL] TEMPERATURA crítica: 40.53
+[2025-05-15 19:57:11] [SECUENCIAL] Procesado temperatura=40.53
+[2025-05-15 19:57:11] [SECUENCIAL] Procesado humedad=69.46
+[2025-05-15 19:57:11] [SECUENCIAL] Procesado presion=975.78
+[2025-05-15 19:57:12] [SECUENCIAL] Procesado temperatura=33.34
+[2025-05-15 19:57:12] [SECUENCIAL] Procesado humedad=60.79
+[2025-05-15 19:57:12] [SECUENCIAL] Procesado presion=1014.64
+[2025-05-15 19:57:13] [ALERTA - SECUENCIAL] TEMPERATURA crítica: 36.64
+[2025-05-15 19:57:13] [SECUENCIAL] Procesado temperatura=36.64
+[2025-05-15 19:57:13] [SECUENCIAL] Procesado humedad=64.59
+[2025-05-15 19:57:13] [SECUENCIAL] Procesado presion=981.96
+[2025-05-15 19:57:14] [SECUENCIAL] Procesado temperatura=23.25
+[2025-05-15 19:57:14] [SECUENCIAL] Procesado humedad=63.38
+[2025-05-15 19:57:14] [SECUENCIAL] Procesado presion=958.08
+[2025-05-15 19:57:15] [SECUENCIAL] Procesado temperatura=28.0
+[2025-05-15 19:57:15] [SECUENCIAL] Procesado humedad=43.5
+[2025-05-15 19:57:15] [ALERTA - SECUENCIAL] PRESION crítica: 1026.59
+[2025-05-15 19:57:15] [SECUENCIAL] Procesado presion=1026.59
+[2025-05-15 19:57:16] [ALERTA - SECUENCIAL] TEMPERATURA crítica: 42.8
+[2025-05-15 19:57:16] [SECUENCIAL] Procesado temperatura=42.8
+[2025-05-15 19:57:16] [SECUENCIAL] Procesado humedad=89.11
+[2025-05-15 19:57:16] [SECUENCIAL] Procesado presion=997.56
+[2025-05-15 19:57:17] [SECUENCIAL] Procesado temperatura=19.1
+[2025-05-15 19:57:17] [SECUENCIAL] Procesado humedad=37.94
+[2025-05-15 19:57:17] [ALERTA - SECUENCIAL] PRESION crítica: 1047.1
+[2025-05-15 19:57:17] [SECUENCIAL] Procesado presion=1047.1
+[2025-05-15 19:57:18] [ALERTA - SECUENCIAL] TEMPERATURA crítica: 40.84
+[2025-05-15 19:57:18] [SECUENCIAL] Procesado temperatura=40.84
+[2025-05-15 19:57:18] [SECUENCIAL] Procesado humedad=63.02
+[2025-05-15 19:57:18] [SECUENCIAL] Procesado presion=968.85
+[2025-05-15 19:57:19] [ALERTA - SECUENCIAL] TEMPERATURA crítica: 38.92
+[2025-05-15 19:57:19] [SECUENCIAL] Procesado temperatura=38.92
+[2025-05-15 19:57:19] [SECUENCIAL] Procesado humedad=88.31
+[2025-05-15 19:57:19] [SECUENCIAL] Procesado presion=969.53
+[2025-05-15 19:57:20] [SECUENCIAL] Procesado temperatura=33.13
+[2025-05-15 19:57:20] [SECUENCIAL] Procesado humedad=37.52
+[2025-05-15 19:57:20] [SECUENCIAL] Procesado presion=957.87
+[2025-05-15 19:57:21] [ALERTA - SECUENCIAL] TEMPERATURA crítica: 44.74
+[2025-05-15 19:57:21] [SECUENCIAL] Procesado temperatura=44.74
+[2025-05-15 19:57:21] [SECUENCIAL] Procesado humedad=42.4
+[2025-05-15 19:57:21] [SECUENCIAL] Procesado presion=1014.25
+[2025-05-15 19:59:59] [SECUENCIAL] Procesado temperatura=22.04
+[2025-05-15 19:59:59] [ALERTA - SECUENCIAL] HUMEDAD crítica: 91.17
+[2025-05-15 19:59:59] [SECUENCIAL] Procesado humedad=91.17
+[2025-05-15 19:59:59] [SECUENCIAL] Procesado presion=975.46
+[2025-05-15 20:00:00] [SECUENCIAL] Procesado temperatura=17.16
+[2025-05-15 20:00:00] [SECUENCIAL] Procesado humedad=86.77
+[2025-05-15 20:00:00] [ALERTA - SECUENCIAL] PRESION crítica: 1047.95
+[2025-05-15 20:00:00] [SECUENCIAL] Procesado presion=1047.95
+[2025-05-15 20:00:01] [SECUENCIAL] Procesado temperatura=30.11
+[2025-05-15 20:00:01] [SECUENCIAL] Procesado humedad=87.39
+[2025-05-15 20:00:01] [SECUENCIAL] Procesado presion=986.13
+[2025-05-15 20:00:02] [SECUENCIAL] Procesado temperatura=29.2
+[2025-05-15 20:00:02] [SECUENCIAL] Procesado humedad=50.71
+[2025-05-15 20:00:02] [SECUENCIAL] Procesado presion=1005.85
+[2025-05-15 20:00:03] [SECUENCIAL] Procesado temperatura=29.41
+[2025-05-15 20:00:03] [SECUENCIAL] Procesado humedad=44.77
+[2025-05-15 20:00:03] [ALERTA - SECUENCIAL] PRESION crítica: 1024.73
+[2025-05-15 20:00:03] [SECUENCIAL] Procesado presion=1024.73
+[2025-05-15 20:00:04] [SECUENCIAL] Procesado temperatura=16.6
+[2025-05-15 20:00:04] [SECUENCIAL] Procesado humedad=82.15
+[2025-05-15 20:00:04] [ALERTA - SECUENCIAL] PRESION crítica: 1049.52
+[2025-05-15 20:00:04] [SECUENCIAL] Procesado presion=1049.52
+[2025-05-15 20:00:05] [SECUENCIAL] Procesado temperatura=20.68
+[2025-05-15 20:00:05] [ALERTA - SECUENCIAL] HUMEDAD crítica: 91.67
+[2025-05-15 20:00:05] [SECUENCIAL] Procesado humedad=91.67
+[2025-05-15 20:00:05] [SECUENCIAL] Procesado presion=992.63
+[2025-05-15 20:00:06] [ALERTA - SECUENCIAL] TEMPERATURA crítica: 41.6
+[2025-05-15 20:00:06] [SECUENCIAL] Procesado temperatura=41.6
+[2025-05-15 20:00:06] [SECUENCIAL] Procesado humedad=60.35
+[2025-05-15 20:00:06] [SECUENCIAL] Procesado presion=956.21
+[2025-05-15 20:00:07] [SECUENCIAL] Procesado temperatura=17.68
+[2025-05-15 20:00:07] [SECUENCIAL] Procesado humedad=55.13
+[2025-05-15 20:00:07] [SECUENCIAL] Procesado presion=986.92
+[2025-05-15 20:00:08] [SECUENCIAL] Procesado temperatura=33.65
+[2025-05-15 20:00:08] [SECUENCIAL] Procesado humedad=39.42
+[2025-05-15 20:00:08] [SECUENCIAL] Procesado presion=1016.03
+[2025-05-15 20:00:09] [SECUENCIAL] Procesado temperatura=33.1
+[2025-05-15 20:00:09] [SECUENCIAL] Procesado humedad=81.35
+[2025-05-15 20:00:09] [SECUENCIAL] Procesado presion=967.98
+[2025-05-15 20:00:10] [SECUENCIAL] Procesado temperatura=16.55
+[2025-05-15 20:00:10] [SECUENCIAL] Procesado humedad=73.26
+[2025-05-15 20:00:10] [ALERTA - SECUENCIAL] PRESION crítica: 1034.6
+[2025-05-15 20:00:10] [SECUENCIAL] Procesado presion=1034.6
+[2025-05-15 20:00:11] [ALERTA - SECUENCIAL] TEMPERATURA crítica: 43.01
+[2025-05-15 20:00:11] [SECUENCIAL] Procesado temperatura=43.01
+[2025-05-15 20:00:11] [SECUENCIAL] Procesado humedad=53.61
+[2025-05-15 20:00:11] [ALERTA - SECUENCIAL] PRESION crítica: 1020.03
+[2025-05-15 20:00:11] [SECUENCIAL] Procesado presion=1020.03
+[2025-05-15 20:00:12] [SECUENCIAL] Procesado temperatura=29.44
+[2025-05-15 20:00:12] [SECUENCIAL] Procesado humedad=45.9
+[2025-05-15 20:00:12] [SECUENCIAL] Procesado presion=995.6
+[2025-05-15 20:00:13] [SECUENCIAL] Procesado temperatura=15.14
+[2025-05-15 20:00:13] [ALERTA - SECUENCIAL] HUMEDAD crítica: 98.17
+[2025-05-15 20:00:13] [SECUENCIAL] Procesado humedad=98.17
+[2025-05-15 20:00:13] [SECUENCIAL] Procesado presion=1010.7
+[2025-05-15 20:00:14] [SECUENCIAL] Procesado temperatura=19.13
+[2025-05-15 20:00:14] [SECUENCIAL] Procesado humedad=58.13
+[2025-05-15 20:00:14] [ALERTA - SECUENCIAL] PRESION crítica: 1035.55
+[2025-05-15 20:00:14] [SECUENCIAL] Procesado presion=1035.55
+[2025-05-15 20:00:15] [ALERTA - SECUENCIAL] TEMPERATURA crítica: 35.31
+[2025-05-15 20:00:15] [SECUENCIAL] Procesado temperatura=35.31
+[2025-05-15 20:00:15] [SECUENCIAL] Procesado humedad=86.23
+[2025-05-15 20:00:15] [SECUENCIAL] Procesado presion=977.71
+[2025-05-15 20:00:16] [ALERTA - SECUENCIAL] TEMPERATURA crítica: 38.39
+[2025-05-15 20:00:16] [SECUENCIAL] Procesado temperatura=38.39
+[2025-05-15 20:00:16] [SECUENCIAL] Procesado humedad=81.33
+[2025-05-15 20:00:16] [SECUENCIAL] Procesado presion=954.8
+[2025-05-15 20:00:17] [ALERTA - SECUENCIAL] TEMPERATURA crítica: 40.7
+[2025-05-15 20:00:17] [SECUENCIAL] Procesado temperatura=40.7
+[2025-05-15 20:00:17] [SECUENCIAL] Procesado humedad=40.56
+[2025-05-15 20:00:17] [ALERTA - SECUENCIAL] PRESION crítica: 1041.61
+[2025-05-15 20:00:17] [SECUENCIAL] Procesado presion=1041.61
+[2025-05-15 20:00:18] [SECUENCIAL] Procesado temperatura=33.39
+[2025-05-15 20:00:18] [SECUENCIAL] Procesado humedad=30.83
+[2025-05-15 20:00:18] [SECUENCIAL] Procesado presion=975.38
+[2025-05-15 20:00:19] [SECUENCIAL] Procesado temperatura=27.44
+[2025-05-15 20:00:19] [SECUENCIAL] Procesado humedad=32.83
+[2025-05-15 20:00:19] [SECUENCIAL] Procesado presion=969.73
+[2025-05-15 20:00:20] [SECUENCIAL] Procesado temperatura=19.93
+[2025-05-15 20:00:20] [ALERTA - SECUENCIAL] HUMEDAD crítica: 90.77
+[2025-05-15 20:00:20] [SECUENCIAL] Procesado humedad=90.77
+[2025-05-15 20:00:20] [SECUENCIAL] Procesado presion=1001.11
+[2025-05-15 20:00:21] [SECUENCIAL] Procesado temperatura=18.07
+[2025-05-15 20:00:21] [SECUENCIAL] Procesado humedad=54.66
+[2025-05-15 20:00:21] [SECUENCIAL] Procesado presion=974.8
+[2025-05-15 20:00:22] [SECUENCIAL] Procesado temperatura=21.45
+[2025-05-15 20:00:22] [ALERTA - SECUENCIAL] HUMEDAD crítica: 90.1
+[2025-05-15 20:00:22] [SECUENCIAL] Procesado humedad=90.1
+[2025-05-15 20:00:22] [SECUENCIAL] Procesado presion=1002.54
+[2025-05-15 20:00:23] [ALERTA - SECUENCIAL] TEMPERATURA crítica: 40.13
+[2025-05-15 20:00:23] [SECUENCIAL] Procesado temperatura=40.13
+[2025-05-15 20:00:23] [SECUENCIAL] Procesado humedad=31.56
+[2025-05-15 20:00:23] [ALERTA - SECUENCIAL] PRESION crítica: 1025.62
+[2025-05-15 20:00:23] [SECUENCIAL] Procesado presion=1025.62
+[2025-05-15 20:00:24] [ALERTA - SECUENCIAL] TEMPERATURA crítica: 36.18
+[2025-05-15 20:00:24] [SECUENCIAL] Procesado temperatura=36.18
+[2025-05-15 20:00:24] [SECUENCIAL] Procesado humedad=82.18
+[2025-05-15 20:00:24] [SECUENCIAL] Procesado presion=994.12
+[2025-05-15 20:00:25] [SECUENCIAL] Procesado temperatura=29.28
+[2025-05-15 20:00:25] [SECUENCIAL] Procesado humedad=67.49
+[2025-05-15 20:00:25] [ALERTA - SECUENCIAL] PRESION crítica: 1032.1
+[2025-05-15 20:00:25] [SECUENCIAL] Procesado presion=1032.1
+[2025-05-15 20:00:26] [SECUENCIAL] Procesado temperatura=33.94
+[2025-05-15 20:00:26] [SECUENCIAL] Procesado humedad=34.86
+[2025-05-15 20:00:26] [SECUENCIAL] Procesado presion=965.71
+[2025-05-15 20:00:27] [SECUENCIAL] Procesado temperatura=17.96
+[2025-05-15 20:00:27] [SECUENCIAL] Procesado humedad=66.6
+[2025-05-15 20:00:27] [SECUENCIAL] Procesado presion=977.67
+[2025-05-15 20:00:28] [SECUENCIAL] Procesado temperatura=29.8
+[2025-05-15 20:00:28] [SECUENCIAL] Procesado humedad=45.59
+[2025-05-15 20:00:28] [SECUENCIAL] Procesado presion=995.88
+[2025-05-16 15:06:57] [Servidor] Procesado humedad=77.39 de Sensor 4376ae8b
+[2025-05-16 15:06:57] [Servidor] Procesado temperatura=34.41 de Sensor ee2803dc
+[2025-05-16 15:06:57] [Servidor] Procesado presion=983.41 de Sensor 1d6cf37e
+[2025-05-16 15:06:58] [Servidor] Procesado humedad=31.76 de Sensor 4376ae8b
+[2025-05-16 15:06:58] [ALERTA] TEMPERATURA crítica (44.54) en Sensor ee2803dc
+[2025-05-16 15:06:58] [Servidor] Procesado temperatura=44.54 de Sensor ee2803dc
+[2025-05-16 15:06:58] [Servidor] Procesado presion=990.48 de Sensor 1d6cf37e
+[2025-05-16 15:06:59] [Servidor] Procesado temperatura=25.39 de Sensor ee2803dc
+[2025-05-16 15:06:59] [ALERTA] HUMEDAD crítica (95.72) en Sensor 4376ae8b
+[2025-05-16 15:06:59] [Servidor] Procesado humedad=95.72 de Sensor 4376ae8b
+[2025-05-16 15:06:59] [Servidor] Procesado presion=1011.3 de Sensor 1d6cf37e
+[2025-05-16 15:07:00] [Servidor] Procesado humedad=42.47 de Sensor 4376ae8b
+[2025-05-16 15:07:00] [Servidor] Procesado temperatura=32.09 de Sensor ee2803dc
+[2025-05-16 15:07:00] [Servidor] Procesado presion=1005.3 de Sensor 1d6cf37e
+[2025-05-16 15:07:01] [Servidor] Procesado humedad=78.84 de Sensor 4376ae8b
+[2025-05-16 15:07:01] [Servidor] Procesado temperatura=16.29 de Sensor ee2803dc
+[2025-05-16 15:07:01] [Servidor] Procesado presion=961.02 de Sensor 1d6cf37e
+[2025-05-16 15:07:02] [Servidor] Procesado humedad=75.71 de Sensor 4376ae8b
+[2025-05-16 15:07:02] [ALERTA] TEMPERATURA crítica (40.8) en Sensor ee2803dc
+[2025-05-16 15:07:02] [Servidor] Procesado temperatura=40.8 de Sensor ee2803dc
+[2025-05-16 15:07:02] [Servidor] Procesado presion=1004.28 de Sensor 1d6cf37e
+[2025-05-16 15:07:03] [Servidor] Procesado humedad=47.42 de Sensor 4376ae8b
+[2025-05-16 15:07:03] [Servidor] Procesado temperatura=24.04 de Sensor ee2803dc
+[2025-05-16 15:07:03] [Servidor] Procesado presion=953.79 de Sensor 1d6cf37e
+[2025-05-16 15:07:04] [Servidor] Procesado temperatura=16.47 de Sensor ee2803dc
+[2025-05-16 15:07:04] [Servidor] Procesado humedad=83.59 de Sensor 4376ae8b
+[2025-05-16 15:07:04] [Servidor] Procesado presion=1011.84 de Sensor 1d6cf37e
+[2025-05-16 15:07:05] [Servidor] Procesado humedad=34.71 de Sensor 4376ae8b
+[2025-05-16 15:07:05] [Servidor] Procesado temperatura=34.2 de Sensor ee2803dc
+[2025-05-16 15:07:05] [Servidor] Procesado presion=997.3 de Sensor 1d6cf37e
+[2025-05-16 15:07:06] [Servidor] Procesado humedad=63.01 de Sensor 4376ae8b
+[2025-05-16 15:07:06] [Servidor] Procesado temperatura=23.18 de Sensor ee2803dc
+[2025-05-16 15:07:06] [Servidor] Procesado presion=994.8 de Sensor 1d6cf37e
+[2025-05-16 15:07:07] [Servidor] Procesado temperatura=18.92 de Sensor ee2803dc
+[2025-05-16 15:07:07] [Servidor] Procesado humedad=87.09 de Sensor 4376ae8b
+[2025-05-16 15:07:07] [Servidor] Procesado presion=951.3 de Sensor 1d6cf37e
+[2025-05-16 15:07:08] [Servidor] Procesado temperatura=22.07 de Sensor ee2803dc
+[2025-05-16 15:07:08] [Servidor] Procesado humedad=59.95 de Sensor 4376ae8b
+[2025-05-16 15:07:08] [ALERTA] PRESION crítica (1043.39) en Sensor 1d6cf37e
+[2025-05-16 15:07:08] [Servidor] Procesado presion=1043.39 de Sensor 1d6cf37e
+[2025-05-16 15:07:09] [Servidor] Procesado humedad=52.88 de Sensor 4376ae8b
+[2025-05-16 15:07:09] [ALERTA] TEMPERATURA crítica (38.86) en Sensor ee2803dc
+[2025-05-16 15:07:09] [Servidor] Procesado temperatura=38.86 de Sensor ee2803dc
+[2025-05-16 15:07:09] [Servidor] Procesado presion=964.34 de Sensor 1d6cf37e
+[2025-05-16 15:07:10] [Servidor] Procesado temperatura=29.38 de Sensor ee2803dc
+[2025-05-16 15:07:10] [ALERTA] HUMEDAD crítica (93.44) en Sensor 4376ae8b
+[2025-05-16 15:07:10] [Servidor] Procesado humedad=93.44 de Sensor 4376ae8b
+[2025-05-16 15:07:10] [Servidor] Procesado presion=1016.76 de Sensor 1d6cf37e
+[2025-05-16 15:07:11] [Servidor] Procesado temperatura=17.56 de Sensor ee2803dc
+[2025-05-16 15:07:11] [Servidor] Procesado humedad=51.77 de Sensor 4376ae8b
+[2025-05-16 15:07:11] [Servidor] Procesado presion=984.2 de Sensor 1d6cf37e
+[2025-05-16 15:07:12] [ALERTA] TEMPERATURA crítica (44.6) en Sensor ee2803dc
+[2025-05-16 15:07:12] [Servidor] Procesado temperatura=44.6 de Sensor ee2803dc
+[2025-05-16 15:07:12] [Servidor] Procesado humedad=79.92 de Sensor 4376ae8b
+[2025-05-16 15:07:12] [Servidor] Procesado presion=993.06 de Sensor 1d6cf37e
+[2025-05-16 15:07:13] [ALERTA] HUMEDAD crítica (96.25) en Sensor 4376ae8b
+[2025-05-16 15:07:13] [Servidor] Procesado humedad=96.25 de Sensor 4376ae8b
+[2025-05-16 15:07:13] [Servidor] Procesado temperatura=18.86 de Sensor ee2803dc
+[2025-05-16 15:07:13] [Servidor] Procesado presion=1015.36 de Sensor 1d6cf37e
+[2025-05-16 15:07:14] [Servidor] Procesado humedad=40.35 de Sensor 4376ae8b
+[2025-05-16 15:07:14] [Servidor] Procesado temperatura=34.66 de Sensor ee2803dc
+[2025-05-16 15:07:14] [Servidor] Procesado presion=981.07 de Sensor 1d6cf37e
+[2025-05-16 15:07:15] [Servidor] Procesado temperatura=34.09 de Sensor ee2803dc
+[2025-05-16 15:07:15] [ALERTA] HUMEDAD crítica (95.09) en Sensor 4376ae8b
+[2025-05-16 15:07:15] [Servidor] Procesado humedad=95.09 de Sensor 4376ae8b
+[2025-05-16 15:07:15] [Servidor] Procesado presion=994.21 de Sensor 1d6cf37e
+[2025-05-16 15:07:16] [Servidor] Procesado temperatura=28.93 de Sensor ee2803dc
+[2025-05-16 15:07:16] [Servidor] Procesado humedad=89.27 de Sensor 4376ae8b
+[2025-05-16 15:07:16] [Servidor] Procesado presion=962.92 de Sensor 1d6cf37e
+[2025-05-16 15:07:17] [Servidor] Procesado temperatura=22.92 de Sensor ee2803dc
+[2025-05-16 15:07:17] [ALERTA] HUMEDAD crítica (93.81) en Sensor 4376ae8b
+[2025-05-16 15:07:17] [Servidor] Procesado humedad=93.81 de Sensor 4376ae8b
+[2025-05-16 15:07:17] [Servidor] Procesado presion=987.32 de Sensor 1d6cf37e
+[2025-05-16 15:07:18] [Servidor] Procesado humedad=44.25 de Sensor 4376ae8b
+[2025-05-16 15:07:18] [Servidor] Procesado temperatura=26.93 de Sensor ee2803dc
+[2025-05-16 15:07:18] [ALERTA] PRESION crítica (1041.56) en Sensor 1d6cf37e
+[2025-05-16 15:07:18] [Servidor] Procesado presion=1041.56 de Sensor 1d6cf37e
+[2025-05-16 15:07:28] [SECUENCIAL] Procesado temperatura=18.77
+[2025-05-16 15:07:28] [SECUENCIAL] Procesado humedad=88.52
+[2025-05-16 15:07:28] [ALERTA - SECUENCIAL] PRESION crítica: 1044.16
+[2025-05-16 15:07:28] [SECUENCIAL] Procesado presion=1044.16
+[2025-05-16 15:07:29] [SECUENCIAL] Procesado temperatura=23.39
+[2025-05-16 15:07:29] [SECUENCIAL] Procesado humedad=64.94
+[2025-05-16 15:07:29] [SECUENCIAL] Procesado presion=1007.91
+[2025-05-16 15:07:30] [SECUENCIAL] Procesado temperatura=15.09
+[2025-05-16 15:07:30] [SECUENCIAL] Procesado humedad=35.75
+[2025-05-16 15:07:30] [ALERTA - SECUENCIAL] PRESION crítica: 1040.74
+[2025-05-16 15:07:30] [SECUENCIAL] Procesado presion=1040.74
+[2025-05-16 15:07:31] [ALERTA - SECUENCIAL] TEMPERATURA crítica: 38.55
+[2025-05-16 15:07:31] [SECUENCIAL] Procesado temperatura=38.55
+[2025-05-16 15:07:31] [ALERTA - SECUENCIAL] HUMEDAD crítica: 96.81
+[2025-05-16 15:07:31] [SECUENCIAL] Procesado humedad=96.81
+[2025-05-16 15:07:31] [ALERTA - SECUENCIAL] PRESION crítica: 1046.22
+[2025-05-16 15:07:31] [SECUENCIAL] Procesado presion=1046.22
+[2025-05-16 15:07:32] [SECUENCIAL] Procesado temperatura=34.87
+[2025-05-16 15:07:32] [SECUENCIAL] Procesado humedad=30.58
+[2025-05-16 15:07:32] [SECUENCIAL] Procesado presion=963.43
+[2025-05-16 15:07:33] [ALERTA - SECUENCIAL] TEMPERATURA crítica: 42.89
+[2025-05-16 15:07:33] [SECUENCIAL] Procesado temperatura=42.89
+[2025-05-16 15:07:33] [SECUENCIAL] Procesado humedad=76.51
+[2025-05-16 15:07:33] [SECUENCIAL] Procesado presion=996.03
+[2025-05-16 15:07:34] [SECUENCIAL] Procesado temperatura=33.31
+[2025-05-16 15:07:34] [SECUENCIAL] Procesado humedad=87.83
+[2025-05-16 15:07:34] [SECUENCIAL] Procesado presion=990.4
+[2025-05-16 15:07:35] [SECUENCIAL] Procesado temperatura=19.74
+[2025-05-16 15:07:35] [SECUENCIAL] Procesado humedad=66.05
+[2025-05-16 15:07:35] [SECUENCIAL] Procesado presion=987.82
+[2025-05-16 15:07:36] [SECUENCIAL] Procesado temperatura=23.01
+[2025-05-16 15:07:36] [SECUENCIAL] Procesado humedad=66.82
+[2025-05-16 15:07:36] [SECUENCIAL] Procesado presion=1007.23
+[2025-05-16 15:07:37] [SECUENCIAL] Procesado temperatura=21.25
+[2025-05-16 15:07:37] [SECUENCIAL] Procesado humedad=39.39
+[2025-05-16 15:07:37] [SECUENCIAL] Procesado presion=965.99
+[2025-05-16 15:07:38] [ALERTA - SECUENCIAL] TEMPERATURA crítica: 42.86
+[2025-05-16 15:07:38] [SECUENCIAL] Procesado temperatura=42.86
+[2025-05-16 15:07:38] [SECUENCIAL] Procesado humedad=54.32
+[2025-05-16 15:07:38] [ALERTA - SECUENCIAL] PRESION crítica: 1025.61
+[2025-05-16 15:07:38] [SECUENCIAL] Procesado presion=1025.61
+[2025-05-16 15:07:39] [SECUENCIAL] Procesado temperatura=22.59
+[2025-05-16 15:07:39] [SECUENCIAL] Procesado humedad=57.14
+[2025-05-16 15:07:39] [ALERTA - SECUENCIAL] PRESION crítica: 1032.58
+[2025-05-16 15:07:39] [SECUENCIAL] Procesado presion=1032.58
+[2025-05-16 15:07:40] [ALERTA - SECUENCIAL] TEMPERATURA crítica: 39.97
+[2025-05-16 15:07:40] [SECUENCIAL] Procesado temperatura=39.97
+[2025-05-16 15:07:40] [SECUENCIAL] Procesado humedad=82.66
+[2025-05-16 15:07:40] [SECUENCIAL] Procesado presion=961.59
+[2025-05-16 15:07:41] [SECUENCIAL] Procesado temperatura=16.9
+[2025-05-16 15:07:41] [SECUENCIAL] Procesado humedad=74.83
+[2025-05-16 15:07:41] [ALERTA - SECUENCIAL] PRESION crítica: 1034.7
+[2025-05-16 15:07:41] [SECUENCIAL] Procesado presion=1034.7
+[2025-05-16 15:07:42] [ALERTA - SECUENCIAL] TEMPERATURA crítica: 41.07
+[2025-05-16 15:07:42] [SECUENCIAL] Procesado temperatura=41.07
+[2025-05-16 15:07:42] [SECUENCIAL] Procesado humedad=86.52
+[2025-05-16 15:07:42] [SECUENCIAL] Procesado presion=1000.11
+[2025-05-16 15:07:43] [SECUENCIAL] Procesado temperatura=18.91
+[2025-05-16 15:07:43] [SECUENCIAL] Procesado humedad=49.55
+[2025-05-16 15:07:43] [ALERTA - SECUENCIAL] PRESION crítica: 1027.23
+[2025-05-16 15:07:43] [SECUENCIAL] Procesado presion=1027.23
+[2025-05-16 15:07:44] [SECUENCIAL] Procesado temperatura=34.89
+[2025-05-16 15:07:44] [ALERTA - SECUENCIAL] HUMEDAD crítica: 90.89
+[2025-05-16 15:07:44] [SECUENCIAL] Procesado humedad=90.89
+[2025-05-16 15:07:44] [ALERTA - SECUENCIAL] PRESION crítica: 1024.12
+[2025-05-16 15:07:44] [SECUENCIAL] Procesado presion=1024.12
+[2025-05-16 15:07:45] [SECUENCIAL] Procesado temperatura=32.79
+[2025-05-16 15:07:45] [SECUENCIAL] Procesado humedad=38.88
+[2025-05-16 15:07:45] [SECUENCIAL] Procesado presion=986.48
+[2025-05-16 15:07:46] [SECUENCIAL] Procesado temperatura=15.3
+[2025-05-16 15:07:46] [ALERTA - SECUENCIAL] HUMEDAD crítica: 90.81
+[2025-05-16 15:07:46] [SECUENCIAL] Procesado humedad=90.81
+[2025-05-16 15:07:47] [SECUENCIAL] Procesado presion=1003.99
+[2025-05-16 15:07:48] [SECUENCIAL] Procesado temperatura=33.93
+[2025-05-16 15:07:48] [ALERTA - SECUENCIAL] HUMEDAD crítica: 94.12
+[2025-05-16 15:07:48] [SECUENCIAL] Procesado humedad=94.12
+[2025-05-16 15:07:48] [ALERTA - SECUENCIAL] PRESION crítica: 1044.97
+[2025-05-16 15:07:48] [SECUENCIAL] Procesado presion=1044.97
+[2025-05-16 15:07:49] [SECUENCIAL] Procesado temperatura=34.14
+[2025-05-16 15:07:49] [SECUENCIAL] Procesado humedad=75.07
+[2025-05-16 15:07:49] [SECUENCIAL] Procesado presion=959.22
+[2025-05-16 15:07:50] [SECUENCIAL] Procesado temperatura=31.83
+[2025-05-16 15:07:50] [SECUENCIAL] Procesado humedad=35.96
+[2025-05-16 15:07:50] [SECUENCIAL] Procesado presion=966.94
+[2025-05-16 15:07:51] [SECUENCIAL] Procesado temperatura=20.8
+[2025-05-16 15:07:51] [ALERTA - SECUENCIAL] HUMEDAD crítica: 95.4
+[2025-05-16 15:07:51] [SECUENCIAL] Procesado humedad=95.4
+[2025-05-16 15:07:51] [SECUENCIAL] Procesado presion=977.36
+[2025-05-16 15:07:52] [SECUENCIAL] Procesado temperatura=22.92
+[2025-05-16 15:07:52] [SECUENCIAL] Procesado humedad=55.62
+[2025-05-16 15:07:52] [ALERTA - SECUENCIAL] PRESION crítica: 1046.8
+[2025-05-16 15:07:52] [SECUENCIAL] Procesado presion=1046.8
+[2025-05-16 15:07:53] [SECUENCIAL] Procesado temperatura=17.69
+[2025-05-16 15:07:53] [SECUENCIAL] Procesado humedad=54.72
+[2025-05-16 15:07:53] [SECUENCIAL] Procesado presion=956.54
+[2025-05-16 15:07:54] [ALERTA - SECUENCIAL] TEMPERATURA crítica: 44.19
+[2025-05-16 15:07:54] [SECUENCIAL] Procesado temperatura=44.19
+[2025-05-16 15:07:54] [SECUENCIAL] Procesado humedad=79.02
+[2025-05-16 15:07:54] [ALERTA - SECUENCIAL] PRESION crítica: 1030.54
+[2025-05-16 15:07:54] [SECUENCIAL] Procesado presion=1030.54
+[2025-05-16 15:07:55] [SECUENCIAL] Procesado temperatura=20.73
+[2025-05-16 15:07:55] [SECUENCIAL] Procesado humedad=61.32
+[2025-05-16 15:07:55] [SECUENCIAL] Procesado presion=954.29
+[2025-05-16 15:07:56] [SECUENCIAL] Procesado temperatura=25.21
+[2025-05-16 15:07:56] [SECUENCIAL] Procesado humedad=33.78
+[2025-05-16 15:07:56] [SECUENCIAL] Procesado presion=995.92
+[2025-05-16 15:07:57] [SECUENCIAL] Procesado temperatura=21.46
+[2025-05-16 15:07:57] [SECUENCIAL] Procesado humedad=83.48
+[2025-05-16 15:07:57] [SECUENCIAL] Procesado presion=987.73
+[2025-05-16 15:07:58] [ALERTA - SECUENCIAL] TEMPERATURA crítica: 36.69
+[2025-05-16 15:07:58] [SECUENCIAL] Procesado temperatura=36.69
+[2025-05-16 15:07:58] [SECUENCIAL] Procesado humedad=55.29
+[2025-05-16 15:07:58] [ALERTA - SECUENCIAL] PRESION crítica: 1034.23
+[2025-05-16 15:07:58] [SECUENCIAL] Procesado presion=1034.23
